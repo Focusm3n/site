@@ -1,0 +1,28 @@
+.authorization{
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: #a6a6a6;
+    width: 50%;
+    margin-top: 10vw;
+    padding-bottom: 15px;
+}
+.container h1{
+    display: flex;
+    justify-content: center;
+}
+body {
+    background-color: azure;
+}
+
+#content {
+    float: right ;
+    width: 100% ;
+}
+#navbar {
+    float: right;
+    width: 30%;
+}
